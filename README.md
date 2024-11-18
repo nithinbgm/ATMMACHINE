@@ -42,8 +42,7 @@ Denomination Display: Show denominations for withdrawn amounts.
 Account Locking: Lock accounts after multiple failed PIN attempts.
 Persistent Storage: Save user data to a file or database for persistence.
 Sample Output
-mathematica
-Copy code
+ 
 Enter your pin: 
 5678
 Enter Your Choice: 
@@ -51,12 +50,14 @@ Enter Your Choice:
 2. Withdraw Money
 3. Deposit Money
 4. Exit
-1
+
+
 Balance: 60000.0
 Enter Your Choice: 
 Technologies Used
 Java: Core programming language used for implementation.
 Scanner: Used for user input.
+
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions in terms of features, code refactoring, or bug fixes are always welcome.
 

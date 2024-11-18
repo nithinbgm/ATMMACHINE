@@ -16,6 +16,7 @@ Clone or download this repository to your local machine.
 Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans).
 Run the ATMMACHINE class, which contains the main() method.
 Follow the on-screen instructions to interact with the ATM simulation.
+
 Code Structure
 ATM Class:
 Contains all the core methods for ATM functionality.
@@ -41,8 +42,8 @@ Interest Calculation: Simulate interest accumulation on account balances.
 Denomination Display: Show denominations for withdrawn amounts.
 Account Locking: Lock accounts after multiple failed PIN attempts.
 Persistent Storage: Save user data to a file or database for persistence.
+
 Sample Output
- 
 Enter your pin: 
 5678
 Enter Your Choice: 
